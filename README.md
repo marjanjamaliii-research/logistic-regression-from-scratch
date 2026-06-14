@@ -1,7 +1,7 @@
 # logistic-regression-from-scratch
 
 
-This project implements a simple logistic regression model using only NumPy.
+This project implements a simple logistic regression model using NumPy.
 
 Overview
 
